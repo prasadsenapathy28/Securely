@@ -1,0 +1,23 @@
+{
+  "OS Name": "Microsoft Windows 10 Home Single Language",
+  "OS Version": "Intel64 Family 6 Model 142 Stepping 12 GenuineIntel ~2093 Mhz",
+  "System Type": "x64-based PC",
+  "Hostname": "LAPTOP-MKTE3U4Q",
+  "ProductName": "Windows 10 Home Single Language",
+  "EditionID": "CoreSingleLanguage",
+  "ReleaseId": "2009",
+  "BuildBranch": "vb_release",
+  "CurrentMajorVersionNumber": "10",
+  "CurrentVersion": "6.3",
+  "Architecture": "AMD64",
+  "ProcessorCount": "4",
+  "SystemLang": "en-US",
+  "KeyboardLang": "English (United States)",
+  "TimeZone": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+  "IsVirtualMachine": "False",
+  "Current Time": "24-07-2023 12:06:30",
+  "HighIntegrity": "False",
+  "PartOfDomain": "False",
+  "Hotfixes": "KB5028853, KB4562830, KB4570334, KB4580325, KB4586864, KB5003791, KB5005716, KB5012170, KB5015684, KB5028166, KB5006753, KB5007273, KB5011352, KB5011651, KB5014032, KB5014035, KB5014671, KB5015895, KB5016705, KB5018506, KB5020372, KB5022924, KB5023794, KB5025315, KB5026879, KB5028318, KB5005699,",
+  "[?] Windows vulns search powered by Watson(https": "//github.com/rasta-mouse/Watson)"
+}
